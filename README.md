@@ -1,6 +1,6 @@
-# Smartthings Community Edge Drivers
+# SmartThings Community Edge Drivers
 
-This is a repo for unofficial community created edge drivers for Smartthings. These drivers are mainly based on the official drivers found at [SmartThingsCommunity](https://github.com/SmartThingsCommunity)/[SmartThingsEdgeDrivers](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers). All drivers are meant to be compatible with the official repo. If you are a manufacturer, feel free to submit official drivers based on these drivers.
+This is a repo for unofficial community created edge drivers for SmartThings. These drivers are mainly based on the official drivers found at [SmartThingsCommunity](https://github.com/SmartThingsCommunity)/[SmartThingsEdgeDrivers](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers). All drivers are meant to be compatible with the official repo. If you are a manufacturer, feel free to submit official drivers based on these drivers.
 
 All drivers are provided *as is*. **Use these drivers on your own risk!**
 
@@ -8,7 +8,7 @@ Any contributions are welcome!
 
 # Channel invitation
 
-You can install or uninstall these drivers directly from the web to your Smartthings hub by accepting the channel invitation.
+You can install or uninstall these drivers directly from the web to your SmartThings hub by accepting the channel invitation.
 
 > [Driver Channel Invitation](https://bestow-regional.api.smartthings.com/invite/r3My4NRWvzjp)
 
