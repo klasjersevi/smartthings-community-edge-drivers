@@ -1,0 +1,4 @@
+name: 'Z-Wave Siterwell Smoke Alarm'
+packageKey: 'zwave-siterwell-smoke-alarm'
+permissions:
+  zwave: {}

@@ -1,0 +1,24 @@
+name: smoke-battery-temperaturealarm
+components:
+- id: main
+  capabilities:
+  - id: smokeDetector
+    version: 1
+  - id: battery
+    version: 1
+  - id: temperatureAlarm
+    version: 1
+    config:
+      values:
+        - key: "temperatureAlarm.value"
+          enabledValues:
+            - cleared
+            - freeze
+            - heat
+  - id: refresh
+    version: 1
+  categories:
+  - name: SmokeDetector
+preferences:
+  - preferenceId: certifiedpreferences.smokeSensorSensitivity
+    explicit: true

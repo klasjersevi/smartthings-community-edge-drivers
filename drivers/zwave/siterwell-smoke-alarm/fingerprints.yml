@@ -1,0 +1,8 @@
+zwaveManufacturer:
+  - id: 0266/0005/0001 
+    deviceLabel: Siterwell Smoke Alarm Sensor
+    manufacturerId: 0x0266
+    productType: 0x0005
+    productId: 0x0001
+    deviceProfileName: smoke-battery-temperaturealarm
+ 
