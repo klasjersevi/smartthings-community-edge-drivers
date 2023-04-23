@@ -10,7 +10,7 @@ Any contributions are welcome!
 
 You can install or uninstall these drivers directly from the web to your Smartthings hub by accepting the channel invitation.
 
-> https://bestow-regional.api.smartthings.com/invite/r3My4NRWvzjp
+> [Driver Channel Invitation](https://bestow-regional.api.smartthings.com/invite/r3My4NRWvzjp)
 
 # Z-Wave drivers
 
