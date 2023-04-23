@@ -1,0 +1,19 @@
+zwaveManufacturer:
+  - id: "philio/pst02-1a"
+    deviceLabel: Philio 4-in-1 Multisensor
+    manufacturerId: 0x013C
+    productType: 0x0002
+    productId: 0x000C
+    deviceProfileName: philio-pst02-sensor
+  - id: "philio/pst02-1b"
+    deviceLabel: Philio 3-in-1 Multisensor
+    manufacturerId: 0x013C
+    productType: 0x0002
+    productId: 0x000D
+    deviceProfileName: philio-pst02-sensor
+  - id: "philio/pst02-1c"
+    deviceLabel: Philio 3-in-1 Multisensor
+    manufacturerId: 0x013C
+    productType: 0x0002
+    productId: 0x000E
+    deviceProfileName: philio-pst02-sensor

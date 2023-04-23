@@ -1,0 +1,4 @@
+name: 'Z-Wave Philio Slim Multisensor'
+packageKey: 'zwave-philio-multisensor'
+permissions:
+  zwave: {}
